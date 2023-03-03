@@ -1,0 +1,20 @@
+{
+  "name": "get-timeslots",
+  "version": "1.0.0",
+  "description": "An NPM package to generate timeslots from given time range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grjan7/get-timeslots.git"
+  },
+  "keywords": [],
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grjan7/get-timeslots/issues"
+  },
+  "homepage": "https://github.com/grjan7/get-timeslots#readme"
+}
